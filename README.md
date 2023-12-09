@@ -1,6 +1,15 @@
 # Frontends
 A list of alternative frontend software
 
+### 2ch
+- [Anychan](https://github.com/catamphetamine/anychan)
+  
+### 4chan
+- [Anychan](https://github.com/catamphetamine/anychan)
+
+### 8ch
+- [Anychan](https://github.com/catamphetamine/anychan)
+  
 ### Google Search
 - [4get](https://git.lolcat.ca/lolcat/4get)
 
@@ -9,6 +18,12 @@ A list of alternative frontend software
 
 ### Imgur
 - [Rimgo](https://codeberg.org/rimgo/rimgo)
+
+### Kohlchan
+- [Anychan](https://github.com/catamphetamine/anychan)
+
+### Lainchan
+- [Anychan](https://github.com/catamphetamine/anychan)
 
 ### Medium
 - [Libmedium](https://git.batsense.net/realaravinth/libmedium)
