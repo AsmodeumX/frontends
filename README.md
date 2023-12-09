@@ -6,7 +6,7 @@ A list of alternative frontend software
 - [Freexiv](https://github.com/PrivacyDevel/freexiv)
 
 ## Twitch
-- [[SafeTwitch]](https://codeberg.org/SafeTwitch/safetwitch)
+- [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch)
 
 ## Youtube
 
